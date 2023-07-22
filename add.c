@@ -12,7 +12,7 @@ int main(void)
 	printf("sum is %d\n", sum);
 	
 	ppid = getppid();
-	printf("ppid is %u\n", pid);
+	printf("ppid is %u\n", ppid);
 
 	return 0;
 }
